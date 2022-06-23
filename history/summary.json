@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/opl.uab.cat",
     "slug": "web-opl",
     "status": "down",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-22": 56
+      "2022-06-23": 12,
+      "2022-06-22": 683
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/migasfree.opl.uab.cat",
     "slug": "migasfree-server-opl",
     "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-22": 56
+      "2022-06-23": 12,
+      "2022-06-22": 683
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/mirrors.opl.uab.cat",
     "slug": "mirrors-opl",
     "status": "down",
-    "uptime": "0.93%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.93%",
-    "uptimeMonth": "0.93%",
-    "uptimeYear": "0.93%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-22": 55
+      "2022-06-23": 12,
+      "2022-06-22": 682
     }
   },
   {
@@ -70,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
