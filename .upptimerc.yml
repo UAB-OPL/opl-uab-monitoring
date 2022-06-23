@@ -8,11 +8,7 @@ sites:
   - name: Migasfree Server OPL
     url: https://migasfree.opl.uab.cat
   - name: Mirrors OPL
-    url: http://mirrors.opl.uab.cat
-  - name: Google
-    url: https://www.google.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://mirrors.opl.uab.cat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
