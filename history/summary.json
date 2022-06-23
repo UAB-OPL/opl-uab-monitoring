@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/opl.uab.cat",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "3.35%",
+    "uptimeDay": "3.35%",
+    "uptimeWeek": "3.35%",
+    "uptimeMonth": "3.35%",
+    "uptimeYear": "3.35%",
     "time": 1443,
     "timeDay": 1443,
     "timeWeek": 1443,
@@ -37,7 +37,7 @@
     "timeMonth": 899,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2022-06-23": 679,
+      "2022-06-23": 719,
       "2022-06-22": 683
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://favicons.githubusercontent.com/mirrors.opl.uab.cat",
     "slug": "mirrors-opl",
-    "status": "down",
+    "status": "up",
     "uptime": "0.04%",
     "uptimeDay": "0.04%",
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1410,
+    "timeDay": 1410,
+    "timeWeek": 1410,
+    "timeMonth": 1410,
+    "timeYear": 1410,
     "dailyMinutesDown": {
-      "2022-06-23": 679,
+      "2022-06-23": 719,
       "2022-06-22": 682
     }
   }
