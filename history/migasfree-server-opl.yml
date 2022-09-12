@@ -1,7 +1,7 @@
 url: https://migasfree.opl.uab.cat
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2022-09-11T23:04:05.235Z
+status: down
+code: 502
+responseTime: 1139
+lastUpdated: 2022-09-12T06:06:02.713Z
 startTime: Wed Jun 22 2022 12:36:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
