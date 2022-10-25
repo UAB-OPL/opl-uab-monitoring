@@ -1,7 +1,7 @@
 url: https://opl.uab.cat
-status: up
-code: 200
-responseTime: 5487
-lastUpdated: 2022-10-24T23:04:07.074Z
+status: down
+code: 500
+responseTime: 548
+lastUpdated: 2022-10-25T10:44:10.547Z
 startTime: Wed Jun 22 2022 12:36:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
