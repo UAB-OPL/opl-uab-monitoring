@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
-    "time": 2582,
-    "timeDay": 1762,
-    "timeWeek": 2154,
-    "timeMonth": 1636,
-    "timeYear": 2744,
+    "uptimeYear": "95.30%",
+    "time": 2579,
+    "timeDay": 1076,
+    "timeWeek": 1842,
+    "timeMonth": 1637,
+    "timeYear": 2739,
     "dailyMinutesDown": {
       "2023-07-28": 373,
       "2023-07-27": 236,
@@ -37,8 +37,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 61,
-      "2022-10-28": 641,
-      "2022-10-27": 1440
+      "2022-10-28": 641
     }
   },
   {
@@ -51,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.11%",
-    "time": 1719,
-    "timeDay": 913,
-    "timeWeek": 1079,
-    "timeMonth": 1232,
-    "timeYear": 1797,
+    "uptimeYear": "94.38%",
+    "time": 1717,
+    "timeDay": 575,
+    "timeWeek": 1029,
+    "timeMonth": 1235,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-05-23": 76,
@@ -83,8 +82,7 @@
       "2022-10-31": 631,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   },
   {
@@ -93,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "95.38%",
+    "uptime": "95.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.22%",
-    "time": 1629,
-    "timeDay": 905,
-    "timeWeek": 932,
-    "timeMonth": 1102,
-    "timeYear": 1606,
+    "uptimeYear": "94.50%",
+    "time": 1627,
+    "timeDay": 467,
+    "timeWeek": 769,
+    "timeMonth": 1093,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-04-11": 385,
@@ -127,8 +125,7 @@
       "2022-10-31": 806,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   }
 ]
