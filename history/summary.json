@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "96.01%",
+    "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.69%",
-    "time": 2575,
-    "timeDay": 1608,
-    "timeWeek": 1321,
-    "timeMonth": 1648,
-    "timeYear": 2730,
+    "time": 2571,
+    "timeDay": 919,
+    "timeWeek": 1332,
+    "timeMonth": 1635,
+    "timeYear": 2729,
     "dailyMinutesDown": {
       "2023-07-28": 373,
       "2023-07-27": 236,
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.93%",
-    "time": 1712,
-    "timeDay": 586,
+    "uptimeYear": "95.21%",
+    "time": 1711,
+    "timeDay": 1255,
     "timeWeek": 912,
-    "timeMonth": 1206,
-    "timeYear": 1787,
+    "timeMonth": 1194,
+    "timeYear": 1785,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-05-23": 76,
@@ -78,8 +78,7 @@
       "2022-12-22": 55,
       "2022-12-04": 923,
       "2022-12-03": 118,
-      "2022-10-31": 631,
-      "2022-10-30": 1440
+      "2022-10-31": 631
     }
   },
   {
@@ -92,12 +91,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.05%",
-    "time": 1624,
-    "timeDay": 676,
-    "timeWeek": 775,
-    "timeMonth": 1101,
-    "timeYear": 1600,
+    "uptimeYear": "95.32%",
+    "time": 1622,
+    "timeDay": 578,
+    "timeWeek": 792,
+    "timeMonth": 1088,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-04-11": 385,
@@ -119,8 +118,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 60,
-      "2022-10-31": 806,
-      "2022-10-30": 1440
+      "2022-10-31": 806
     }
   }
 ]
