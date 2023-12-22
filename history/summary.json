@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "96.40%",
+    "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.69%",
-    "time": 2506,
-    "timeDay": 5495,
-    "timeWeek": 2441,
-    "timeMonth": 1959,
-    "timeYear": 2468,
+    "time": 2509,
+    "timeDay": 2234,
+    "timeWeek": 2621,
+    "timeMonth": 1970,
+    "timeYear": 2462,
     "dailyMinutesDown": {
       "2023-07-28": 373,
       "2023-07-27": 236,
@@ -35,8 +35,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 61
+      "2022-12-23": 1440
     }
   },
   {
@@ -45,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.78%",
+    "uptime": "95.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.80%",
-    "time": 1697,
-    "timeDay": 586,
-    "timeWeek": 991,
+    "time": 1698,
+    "timeDay": 790,
+    "timeWeek": 949,
     "timeMonth": 1011,
-    "timeYear": 1643,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-05-23": 76,
@@ -74,8 +73,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 55
+      "2022-12-23": 1440
     }
   },
   {
@@ -84,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.74%",
-    "time": 1575,
-    "timeDay": 705,
-    "timeWeek": 826,
-    "timeMonth": 810,
-    "timeYear": 1413,
+    "time": 1576,
+    "timeDay": 1309,
+    "timeWeek": 921,
+    "timeMonth": 826,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-04-11": 385,
@@ -113,8 +111,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 60
+      "2022-12-23": 1440
     }
   }
 ]
