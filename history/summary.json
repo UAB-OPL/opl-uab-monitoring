@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.69%",
-    "time": 2509,
-    "timeDay": 2234,
-    "timeWeek": 2621,
-    "timeMonth": 1970,
-    "timeYear": 2462,
+    "uptimeYear": "95.71%",
+    "time": 2510,
+    "timeDay": 1387,
+    "timeWeek": 2682,
+    "timeMonth": 1957,
+    "timeYear": 2459,
     "dailyMinutesDown": {
       "2023-07-28": 373,
       "2023-07-27": 236,
@@ -34,8 +34,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.80%",
+    "uptimeYear": "95.81%",
     "time": 1698,
-    "timeDay": 790,
-    "timeWeek": 949,
-    "timeMonth": 1011,
+    "timeDay": 1453,
+    "timeWeek": 993,
+    "timeMonth": 1008,
     "timeYear": 1642,
     "dailyMinutesDown": {
       "2023-06-27": 42,
@@ -72,8 +71,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   },
   {
@@ -82,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.74%",
-    "time": 1576,
-    "timeDay": 1309,
-    "timeWeek": 921,
-    "timeMonth": 826,
-    "timeYear": 1415,
+    "uptimeYear": "95.76%",
+    "time": 1577,
+    "timeDay": 971,
+    "timeWeek": 897,
+    "timeMonth": 830,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-04-11": 385,
@@ -110,8 +108,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   }
 ]
