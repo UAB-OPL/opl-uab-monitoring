@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "97.08%",
     "time": 2513,
-    "timeDay": 1986,
-    "timeWeek": 2508,
-    "timeMonth": 2024,
-    "timeYear": 2455,
+    "timeDay": 1565,
+    "timeWeek": 1946,
+    "timeMonth": 2026,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2023-07-28": 373,
       "2023-07-27": 236,
@@ -29,8 +29,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 872,
       "2022-12-30": 512,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   },
   {
@@ -39,16 +38,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.91%",
+    "uptimeYear": "97.18%",
     "time": 1699,
-    "timeDay": 1582,
-    "timeWeek": 1193,
-    "timeMonth": 1049,
-    "timeYear": 1639,
+    "timeDay": 779,
+    "timeWeek": 1220,
+    "timeMonth": 1056,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-05-23": 76,
@@ -62,8 +61,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 871,
       "2022-12-30": 512,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   },
   {
@@ -76,12 +74,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.85%",
+    "uptimeYear": "97.13%",
     "time": 1576,
-    "timeDay": 660,
-    "timeWeek": 970,
-    "timeMonth": 854,
-    "timeYear": 1409,
+    "timeDay": 663,
+    "timeWeek": 964,
+    "timeMonth": 842,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2023-06-27": 42,
       "2023-04-11": 385,
@@ -95,8 +93,7 @@
       "2023-04-03": 870,
       "2023-02-14": 346,
       "2022-12-30": 512,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   }
 ]
