@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "96.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.46%",
+    "uptimeWeek": "90.73%",
     "uptimeMonth": "86.21%",
     "uptimeYear": "96.57%",
     "time": 2297,
-    "timeDay": 1440,
-    "timeWeek": 2394,
-    "timeMonth": 1732,
+    "timeDay": 1507,
+    "timeWeek": 2296,
+    "timeMonth": 1709,
     "timeYear": 1779,
     "dailyMinutesDown": {
       "2024-03-26": 948,
@@ -31,8 +31,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 872
+      "2023-04-04": 1440
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.79%",
+    "uptime": "95.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.46%",
+    "uptimeWeek": "90.73%",
     "uptimeMonth": "86.21%",
     "uptimeYear": "96.67%",
     "time": 1558,
-    "timeDay": 1182,
-    "timeWeek": 1431,
-    "timeMonth": 1095,
-    "timeYear": 1207,
+    "timeDay": 977,
+    "timeWeek": 1381,
+    "timeMonth": 1068,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-03-26": 948,
       "2024-03-25": 1440,
@@ -66,8 +65,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1433,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 871
+      "2023-04-04": 1440
     }
   },
   {
@@ -78,13 +76,13 @@
     "status": "up",
     "uptime": "95.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.46%",
+    "uptimeWeek": "90.72%",
     "uptimeMonth": "86.21%",
     "uptimeYear": "96.69%",
     "time": 1314,
-    "timeDay": 1236,
-    "timeWeek": 1335,
-    "timeMonth": 1363,
+    "timeDay": 655,
+    "timeWeek": 1250,
+    "timeMonth": 1325,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2024-03-26": 948,
@@ -100,8 +98,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1433,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 870
+      "2023-04-04": 1440
     }
   }
 ]
