@@ -6,17 +6,17 @@
     "slug": "web-opl",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.57%",
-    "uptimeWeek": "90.32%",
-    "uptimeMonth": "94.82%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "99.57%",
     "time": 1703,
     "timeDay": 1289,
-    "timeWeek": 1369,
+    "timeWeek": 1367,
     "timeMonth": 1410,
     "timeYear": 1508,
     "dailyMinutesDown": {
-      "2024-05-19": 106,
+      "2024-05-19": 100,
       "2024-05-18": 79,
       "2024-05-17": 276,
       "2024-05-16": 106,
@@ -32,7 +32,7 @@
       "2024-05-06": 99,
       "2024-05-05": 68,
       "2024-05-04": 147,
-      "2024-05-03": 89
+      "2024-05-03": 106
     }
   },
   {
@@ -42,17 +42,17 @@
     "slug": "migasfree-server-opl",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.73%",
-    "uptimeWeek": "90.65%",
-    "uptimeMonth": "94.77%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.56%",
     "time": 1122,
     "timeDay": 1020,
-    "timeWeek": 995,
+    "timeWeek": 993,
     "timeMonth": 1002,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2024-05-19": 103,
+      "2024-05-19": 98,
       "2024-05-18": 64,
       "2024-05-17": 270,
       "2024-05-16": 106,
@@ -69,7 +69,7 @@
       "2024-05-05": 142,
       "2024-05-04": 131,
       "2024-05-03": 106,
-      "2024-05-02": 36
+      "2024-05-02": 61
     }
   },
   {
@@ -78,10 +78,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "94.85%",
+    "uptime": "99.77%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "90.87%",
+    "uptimeMonth": "94.81%",
     "uptimeYear": "99.57%",
     "time": 1079,
     "timeDay": 1089,
@@ -89,7 +89,7 @@
     "timeMonth": 960,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2024-05-19": 102,
+      "2024-05-19": 97,
       "2024-05-18": 61,
       "2024-05-17": 266,
       "2024-05-16": 101,
@@ -107,7 +107,7 @@
       "2024-05-04": 125,
       "2024-05-03": 101,
       "2024-05-02": 159,
-      "2024-05-01": 55
+      "2024-05-01": 78
     }
   }
 ]
