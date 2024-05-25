@@ -4,19 +4,19 @@
     "url": "https://opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "99.55%",
-    "time": 1705,
-    "timeDay": 1610,
-    "timeWeek": 1440,
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "99.56%",
+    "time": 1704,
+    "timeDay": 1625,
+    "timeWeek": 1442,
     "timeMonth": 1423,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2024-05-25": 40,
+      "2024-05-25": 41,
       "2024-05-24": 201,
       "2024-05-23": 140,
       "2024-05-22": 149,
@@ -32,8 +32,7 @@
       "2024-05-12": 126,
       "2024-05-11": 132,
       "2024-05-10": 152,
-      "2024-05-09": 128,
-      "2024-05-08": 31
+      "2024-05-09": 128
     }
   },
   {
@@ -41,19 +40,19 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "94.60%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.55%",
-    "time": 1141,
-    "timeDay": 1365,
-    "timeWeek": 1039,
+    "time": 1135,
+    "timeDay": 1380,
+    "timeWeek": 1041,
     "timeMonth": 1017,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2024-05-25": 39,
+      "2024-05-25": 40,
       "2024-05-24": 181,
       "2024-05-23": 122,
       "2024-05-22": 147,
@@ -70,8 +69,7 @@
       "2024-05-11": 130,
       "2024-05-10": 133,
       "2024-05-09": 125,
-      "2024-05-08": 144,
-      "2024-05-07": 17
+      "2024-05-08": 144
     }
   },
   {
@@ -79,15 +77,15 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "94.73%",
     "uptimeYear": "99.56%",
     "time": 1092,
-    "timeDay": 1133,
-    "timeWeek": 1060,
+    "timeDay": 1128,
+    "timeWeek": 1063,
     "timeMonth": 984,
     "timeYear": 1010,
     "dailyMinutesDown": {
@@ -109,7 +107,7 @@
       "2024-05-10": 115,
       "2024-05-09": 106,
       "2024-05-08": 141,
-      "2024-05-07": 67
+      "2024-05-07": 51
     }
   }
 ]
