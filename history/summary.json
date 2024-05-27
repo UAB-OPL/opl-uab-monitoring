@@ -4,11 +4,11 @@
     "url": "https://opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "91.19%",
-    "uptimeMonth": "94.60%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "91.18%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.55%",
     "time": 1710,
     "timeDay": 1548,
@@ -16,7 +16,7 @@
     "timeMonth": 1441,
     "timeYear": 1509,
     "dailyMinutesDown": {
-      "2024-05-27": 117,
+      "2024-05-27": 118,
       "2024-05-26": 75,
       "2024-05-25": 55,
       "2024-05-24": 201,
@@ -33,7 +33,7 @@
       "2024-05-13": 220,
       "2024-05-12": 126,
       "2024-05-11": 132,
-      "2024-05-10": 111
+      "2024-05-10": 94
     }
   },
   {
@@ -41,11 +41,11 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.56%",
     "time": 1148,
     "timeDay": 1145,
@@ -53,7 +53,7 @@
     "timeMonth": 1031,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2024-05-27": 116,
+      "2024-05-27": 117,
       "2024-05-26": 73,
       "2024-05-25": 39,
       "2024-05-24": 181,
@@ -71,7 +71,7 @@
       "2024-05-12": 123,
       "2024-05-11": 130,
       "2024-05-10": 133,
-      "2024-05-09": 68
+      "2024-05-09": 53
     }
   },
   {
@@ -79,12 +79,12 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "99.56%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "99.57%",
     "time": 1094,
     "timeDay": 1161,
     "timeWeek": 1086,
@@ -109,7 +109,7 @@
       "2024-05-12": 104,
       "2024-05-11": 127,
       "2024-05-10": 115,
-      "2024-05-09": 106
+      "2024-05-09": 85
     }
   }
 ]
