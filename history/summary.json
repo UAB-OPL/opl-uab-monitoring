@@ -12,7 +12,7 @@
     "uptimeYear": "89.16%",
     "time": 1552,
     "timeDay": 1029,
-    "timeWeek": 1368,
+    "timeWeek": 1186,
     "timeMonth": 1529,
     "timeYear": 1529,
     "dailyMinutesDown": {
@@ -84,18 +84,19 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.46%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.17%",
-    "time": 1063,
+    "time": 1060,
     "timeDay": 626,
     "timeWeek": 897,
     "timeMonth": 937,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-09-02": 405,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -156,7 +157,7 @@
       "2024-05-15": 83,
       "2024-05-14": 102,
       "2024-05-13": 217,
-      "2024-05-12": 36
+      "2024-05-12": 17
     }
   },
   {
