@@ -4,16 +4,16 @@
     "url": "https://opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "95.55%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "89.14%",
+    "uptimeYear": "89.15%",
     "time": 1545,
-    "timeDay": 3091,
-    "timeWeek": 2179,
-    "timeMonth": 1706,
+    "timeDay": 2772,
+    "timeWeek": 2137,
+    "timeMonth": 1701,
     "timeYear": 1533,
     "dailyMinutesDown": {
       "2024-11-29": 150,
@@ -77,7 +77,7 @@
       "2024-05-17": 276,
       "2024-05-16": 106,
       "2024-05-15": 84,
-      "2024-05-14": 103
+      "2024-05-14": 87
     }
   },
   {
