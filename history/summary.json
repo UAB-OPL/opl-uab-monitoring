@@ -4,18 +4,19 @@
     "url": "https://opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "95.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "89.14%",
     "time": 1545,
-    "timeDay": 2015,
-    "timeWeek": 2141,
-    "timeMonth": 1704,
+    "timeDay": 795,
+    "timeWeek": 2085,
+    "timeMonth": 1689,
     "timeYear": 1530,
     "dailyMinutesDown": {
+      "2024-12-03": 0,
       "2024-12-01": 38,
       "2024-11-29": 185,
       "2024-11-27": 26,
@@ -78,7 +79,7 @@
       "2024-05-17": 276,
       "2024-05-16": 106,
       "2024-05-15": 84,
-      "2024-05-14": 64
+      "2024-05-14": 46
     }
   },
   {
@@ -87,18 +88,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "95.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "89.17%",
     "time": 1053,
-    "timeDay": 851,
-    "timeWeek": 815,
-    "timeMonth": 990,
+    "timeDay": 628,
+    "timeWeek": 791,
+    "timeMonth": 979,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-12-03": 7,
       "2024-09-02": 405,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -159,7 +159,7 @@
       "2024-05-15": 83,
       "2024-05-14": 102,
       "2024-05-13": 217,
-      "2024-05-12": 17
+      "2024-05-12": 36
     }
   },
   {
@@ -174,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.18%",
     "time": 979,
-    "timeDay": 1457,
-    "timeWeek": 884,
-    "timeMonth": 817,
-    "timeYear": 978,
+    "timeDay": 649,
+    "timeWeek": 877,
+    "timeMonth": 808,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2024-09-02": 406,
       "2024-09-01": 1440,
