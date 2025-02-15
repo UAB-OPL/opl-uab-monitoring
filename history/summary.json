@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "89.14%",
     "time": 1533,
-    "timeDay": 1493,
-    "timeWeek": 1774,
-    "timeMonth": 1415,
+    "timeDay": 1860,
+    "timeWeek": 1809,
+    "timeMonth": 1421,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-02-02": 17,
@@ -91,17 +91,16 @@
     "slug": "migasfree-server-opl",
     "status": "up",
     "uptime": "95.92%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "89.17%",
     "time": 1038,
-    "timeDay": 750,
-    "timeWeek": 1203,
-    "timeMonth": 904,
+    "timeDay": 666,
+    "timeWeek": 1131,
+    "timeMonth": 901,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-02-14": 6,
       "2024-09-02": 405,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -162,7 +161,7 @@
       "2024-05-15": 83,
       "2024-05-14": 102,
       "2024-05-13": 217,
-      "2024-05-12": 17
+      "2024-05-12": 36
     }
   },
   {
@@ -177,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.18%",
     "time": 978,
-    "timeDay": 432,
-    "timeWeek": 1089,
-    "timeMonth": 942,
+    "timeDay": 1042,
+    "timeWeek": 1118,
+    "timeMonth": 944,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2024-09-02": 406,
