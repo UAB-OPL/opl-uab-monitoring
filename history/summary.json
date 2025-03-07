@@ -6,17 +6,16 @@
     "slug": "web-opl",
     "status": "up",
     "uptime": "95.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "89.15%",
-    "time": 1530,
-    "timeDay": 1196,
-    "timeWeek": 1387,
-    "timeMonth": 1414,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "89.14%",
+    "time": 1529,
+    "timeDay": 1215,
+    "timeWeek": 1375,
+    "timeMonth": 1412,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2025-03-06": 5,
       "2025-02-28": 32,
       "2025-02-02": 17,
       "2024-12-20": 12,
@@ -82,7 +81,7 @@
       "2024-05-18": 79,
       "2024-05-17": 276,
       "2024-05-16": 106,
-      "2024-05-15": 33
+      "2024-05-15": 84
     }
   },
   {
@@ -92,17 +91,16 @@
     "slug": "migasfree-server-opl",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "89.17%",
     "time": 1037,
-    "timeDay": 577,
-    "timeWeek": 795,
-    "timeMonth": 1025,
+    "timeDay": 901,
+    "timeWeek": 853,
+    "timeMonth": 1029,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2025-03-06": 5,
       "2025-02-28": 32,
       "2024-09-02": 405,
       "2024-09-01": 1440,
@@ -163,7 +161,8 @@
       "2024-05-16": 106,
       "2024-05-15": 83,
       "2024-05-14": 102,
-      "2024-05-13": 217
+      "2024-05-13": 217,
+      "2024-05-12": 17
     }
   },
   {
@@ -173,17 +172,16 @@
     "slug": "mirrors-opl",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "89.18%",
-    "time": 979,
-    "timeDay": 834,
-    "timeWeek": 783,
-    "timeMonth": 963,
-    "timeYear": 974,
+    "time": 978,
+    "timeDay": 727,
+    "timeWeek": 768,
+    "timeMonth": 961,
+    "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-03-06": 4,
       "2025-02-28": 31,
       "2024-09-02": 406,
       "2024-09-01": 1440,
@@ -245,7 +243,7 @@
       "2024-05-15": 81,
       "2024-05-14": 99,
       "2024-05-13": 214,
-      "2024-05-12": 16
+      "2024-05-12": 35
     }
   }
 ]
