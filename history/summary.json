@@ -6,17 +6,16 @@
     "slug": "web-opl",
     "status": "up",
     "uptime": "96.04%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "89.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "89.14%",
     "time": 1528,
     "timeDay": 1010,
     "timeWeek": 1325,
     "timeMonth": 1340,
     "timeYear": 1503,
     "dailyMinutesDown": {
-      "2025-03-18": 5,
       "2025-02-28": 32,
       "2025-02-02": 17,
       "2024-12-20": 12,
@@ -82,7 +81,7 @@
       "2024-05-18": 79,
       "2024-05-17": 276,
       "2024-05-16": 106,
-      "2024-05-15": 33
+      "2024-05-15": 84
     }
   },
   {
