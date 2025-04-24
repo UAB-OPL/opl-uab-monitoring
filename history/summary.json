@@ -6,16 +6,17 @@
     "slug": "web-opl",
     "status": "up",
     "uptime": "95.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "32.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "32.87%",
     "uptimeMonth": "63.55%",
     "uptimeYear": "86.11%",
-    "time": 1521,
+    "time": 1522,
     "timeDay": 1489,
     "timeWeek": 1450,
     "timeMonth": 1435,
     "timeYear": 1500,
     "dailyMinutesDown": {
+      "2025-04-24": 1,
       "2025-04-22": 682,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -93,8 +94,7 @@
       "2024-05-19": 100,
       "2024-05-18": 79,
       "2024-05-17": 276,
-      "2024-05-16": 106,
-      "2024-05-15": 16
+      "2024-05-16": 106
     }
   },
   {
@@ -102,11 +102,11 @@
     "url": "https://migasfree.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "95.13%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "31.92%",
-    "uptimeMonth": "63.64%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "32.87%",
+    "uptimeMonth": "63.65%",
     "uptimeYear": "86.15%",
     "time": 1032,
     "timeDay": 727,
@@ -114,7 +114,7 @@
     "timeMonth": 942,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2025-04-24": 8,
+      "2025-04-24": 1,
       "2025-04-22": 682,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -195,18 +195,19 @@
     "url": "https://mirrors.opl.uab.cat",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
-    "status": "up",
+    "status": "down",
     "uptime": "95.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "32.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "32.88%",
     "uptimeMonth": "63.65%",
     "uptimeYear": "86.15%",
-    "time": 975,
+    "time": 976,
     "timeDay": 720,
     "timeWeek": 875,
     "timeMonth": 850,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-04-22": 683,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -279,8 +280,7 @@
       "2024-05-16": 101,
       "2024-05-15": 81,
       "2024-05-14": 99,
-      "2024-05-13": 214,
-      "2024-05-12": 16
+      "2024-05-13": 214
     }
   }
 ]
