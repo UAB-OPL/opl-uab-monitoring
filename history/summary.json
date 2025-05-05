@@ -11,10 +11,10 @@
     "uptimeMonth": "59.14%",
     "uptimeYear": "85.76%",
     "time": 1517,
-    "timeDay": 781,
-    "timeWeek": 3092,
-    "timeMonth": 1858,
-    "timeYear": 1528,
+    "timeDay": 1124,
+    "timeWeek": 3067,
+    "timeMonth": 1866,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2025-04-30": 88,
       "2025-04-29": 393,
@@ -112,10 +112,10 @@
     "uptimeWeek": "87.74%",
     "uptimeMonth": "59.25%",
     "uptimeYear": "85.79%",
-    "time": 1033,
-    "timeDay": 461,
-    "timeWeek": 1421,
-    "timeMonth": 1160,
+    "time": 1032,
+    "timeDay": 759,
+    "timeWeek": 1393,
+    "timeMonth": 1161,
     "timeYear": 1037,
     "dailyMinutesDown": {
       "2025-04-30": 88,
@@ -205,17 +205,16 @@
     "slug": "mirrors-opl",
     "status": "up",
     "uptime": "95.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "79.61%",
-    "uptimeMonth": "57.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "79.66%",
+    "uptimeMonth": "57.39%",
     "uptimeYear": "85.65%",
     "time": 952,
-    "timeDay": 1097,
-    "timeWeek": 840,
-    "timeMonth": 853,
-    "timeYear": 957,
+    "timeDay": 1296,
+    "timeWeek": 919,
+    "timeMonth": 876,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-05-04": 5,
       "2025-04-30": 683,
       "2025-04-29": 613,
       "2025-04-28": 755,
@@ -293,7 +292,7 @@
       "2024-05-16": 101,
       "2024-05-15": 81,
       "2024-05-14": 99,
-      "2024-05-13": 98
+      "2024-05-13": 146
     }
   }
 ]
