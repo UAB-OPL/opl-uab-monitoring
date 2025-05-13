@@ -8,13 +8,13 @@
     "uptime": "95.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "61.17%",
+    "uptimeMonth": "64.45%",
     "uptimeYear": "85.76%",
-    "time": 1535,
-    "timeDay": 1126,
-    "timeWeek": 1578,
-    "timeMonth": 1984,
-    "timeYear": 1540,
+    "time": 1536,
+    "timeDay": 988,
+    "timeWeek": 1564,
+    "timeMonth": 1948,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-05-06": 19,
       "2025-04-30": 88,
@@ -108,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "61.17%",
+    "uptimeMonth": "64.46%",
     "uptimeYear": "85.79%",
-    "time": 1033,
-    "timeDay": 650,
-    "timeWeek": 1278,
-    "timeMonth": 1128,
-    "timeYear": 1036,
+    "time": 1032,
+    "timeDay": 600,
+    "timeWeek": 1260,
+    "timeMonth": 1111,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-05-06": 18,
       "2025-04-30": 88,
@@ -196,8 +196,7 @@
       "2024-05-17": 270,
       "2024-05-16": 106,
       "2024-05-15": 83,
-      "2024-05-14": 102,
-      "2024-05-13": 82
+      "2024-05-14": 102
     }
   },
   {
@@ -206,16 +205,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "59.31%",
+    "uptimeMonth": "62.60%",
     "uptimeYear": "85.65%",
-    "time": 956,
-    "timeDay": 718,
-    "timeWeek": 1385,
-    "timeMonth": 1035,
-    "timeYear": 955,
+    "time": 954,
+    "timeDay": 673,
+    "timeWeek": 1381,
+    "timeMonth": 1022,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2025-05-06": 18,
       "2025-04-30": 683,
@@ -294,8 +293,7 @@
       "2024-05-17": 266,
       "2024-05-16": 101,
       "2024-05-15": 81,
-      "2024-05-14": 99,
-      "2024-05-13": 98
+      "2024-05-14": 99
     }
   }
 ]
