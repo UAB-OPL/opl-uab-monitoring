@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.17%",
     "time": 1822,
-    "timeDay": 1295,
-    "timeWeek": 1643,
-    "timeMonth": 1928,
+    "timeDay": 863,
+    "timeWeek": 1665,
+    "timeMonth": 1886,
     "timeYear": 1772,
     "dailyMinutesDown": {
       "2025-05-31": 19,
@@ -80,8 +80,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 751
+      "2024-07-27": 1440
     }
   },
   {
@@ -95,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.24%",
-    "time": 1007,
-    "timeDay": 1095,
-    "timeWeek": 874,
-    "timeMonth": 968,
-    "timeYear": 977,
+    "time": 1006,
+    "timeDay": 465,
+    "timeWeek": 821,
+    "timeMonth": 930,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2025-05-06": 18,
       "2025-04-30": 88,
@@ -157,8 +156,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 757
+      "2024-07-27": 1440
     }
   },
   {
@@ -172,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "86.07%",
-    "time": 956,
-    "timeDay": 1444,
-    "timeWeek": 1452,
-    "timeMonth": 1074,
-    "timeYear": 950,
+    "time": 963,
+    "timeDay": 4449,
+    "timeWeek": 1390,
+    "timeMonth": 1172,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2025-07-02": 24,
       "2025-05-29": 15,
@@ -236,8 +234,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 756
+      "2024-07-27": 1440
     }
   }
 ]
