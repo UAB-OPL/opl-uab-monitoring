@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.63%",
+    "uptimeYear": "95.91%",
     "time": 1794,
-    "timeDay": 908,
-    "timeWeek": 1854,
-    "timeMonth": 1595,
-    "timeYear": 1752,
+    "timeDay": 1268,
+    "timeWeek": 1823,
+    "timeMonth": 1590,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2025-05-31": 19,
       "2025-05-06": 19,
@@ -44,8 +44,7 @@
       "2024-11-29": 185,
       "2024-11-27": 26,
       "2024-09-02": 405,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "down",
-    "uptime": "92.75%",
+    "uptime": "92.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "86.78%",
-    "time": 996,
+    "time": 997,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-08-30": 18,
+      "2025-08-31": 22,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -119,8 +119,7 @@
       "2025-04-11": 839,
       "2025-02-28": 32,
       "2024-09-02": 405,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   },
   {
@@ -129,7 +128,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "down",
-    "uptime": "92.71%",
+    "uptime": "92.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -140,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-08-30": 18,
+      "2025-08-31": 22,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -196,8 +196,7 @@
       "2025-04-11": 839,
       "2025-02-28": 31,
       "2024-09-02": 406,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   }
 ]
