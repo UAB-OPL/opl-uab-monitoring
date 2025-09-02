@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.18%",
-    "time": 1793,
-    "timeDay": 920,
-    "timeWeek": 1844,
-    "timeMonth": 1566,
-    "timeYear": 1749,
+    "uptimeYear": "96.45%",
+    "time": 1792,
+    "timeDay": 996,
+    "timeWeek": 1809,
+    "timeMonth": 1547,
+    "timeYear": 1748,
     "dailyMinutesDown": {
       "2025-05-31": 19,
       "2025-05-06": 19,
@@ -42,8 +42,7 @@
       "2024-12-19": 4,
       "2024-12-01": 38,
       "2024-11-29": 185,
-      "2024-11-27": 26,
-      "2024-09-02": 405
+      "2024-11-27": 26
     }
   },
   {
@@ -52,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "down",
-    "uptime": "92.59%",
+    "uptime": "92.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "86.78%",
-    "time": 997,
+    "time": 998,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-09-01": 24,
+      "2025-09-02": 19,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -117,8 +117,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 839,
-      "2025-02-28": 32,
-      "2024-09-02": 405
+      "2025-02-28": 32
     }
   },
   {
@@ -127,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "down",
-    "uptime": "92.55%",
+    "uptime": "92.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -138,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-09-01": 24,
+      "2025-09-02": 19,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -194,8 +194,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 839,
-      "2025-02-28": 31,
-      "2024-09-02": 406
+      "2025-02-28": 31
     }
   }
 ]
