@@ -6,15 +6,15 @@
     "slug": "web-opl",
     "status": "up",
     "uptime": "94.12%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "89.00%",
-    "time": 1784,
-    "timeDay": 1483,
-    "timeWeek": 1725,
-    "timeMonth": 1872,
-    "timeYear": 1866,
+    "time": 1785,
+    "timeDay": 1863,
+    "timeWeek": 1736,
+    "timeMonth": 1875,
+    "timeYear": 1867,
     "dailyMinutesDown": {
       "2026-02-26": 24,
       "2026-02-23": 122,
@@ -84,8 +84,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 840,
-      "2025-04-05": 46,
-      "2025-02-28": 32
+      "2025-04-05": 46
     }
   },
   {
@@ -95,15 +94,15 @@
     "slug": "migasfree-server-opl",
     "status": "up",
     "uptime": "91.55%",
-    "uptimeDay": "98.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "79.54%",
-    "time": 1045,
-    "timeDay": 825,
-    "timeWeek": 1461,
-    "timeMonth": 1222,
-    "timeYear": 1069,
+    "time": 1046,
+    "timeDay": 1650,
+    "timeWeek": 1507,
+    "timeMonth": 1228,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-02-26": 24,
       "2026-02-23": 120,
@@ -205,8 +204,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 839,
-      "2025-02-28": 32
+      "2025-04-11": 839
     }
   },
   {
@@ -215,16 +213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "92.28%",
-    "uptimeDay": "98.38%",
+    "uptime": "92.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "82.23%",
     "time": 1015,
-    "timeDay": 830,
-    "timeWeek": 1039,
-    "timeMonth": 994,
-    "timeYear": 1042,
+    "timeDay": 762,
+    "timeWeek": 1035,
+    "timeMonth": 998,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2026-02-26": 23,
       "2026-02-23": 120,
@@ -317,8 +315,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 839,
-      "2025-02-28": 31
+      "2025-04-11": 839
     }
   }
 ]
