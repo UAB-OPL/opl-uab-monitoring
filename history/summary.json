@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "94.30%",
+    "uptime": "94.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "89.41%",
-    "time": 1817,
-    "timeDay": 6562,
-    "timeWeek": 2265,
-    "timeMonth": 1822,
-    "timeYear": 1919,
+    "uptimeYear": "89.69%",
+    "time": 1818,
+    "timeDay": 2532,
+    "timeWeek": 2337,
+    "timeMonth": 1828,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2026-04-09": 30,
       "2026-04-08": 27,
@@ -88,8 +88,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -98,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "91.82%",
+    "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "79.95%",
+    "uptimeYear": "80.22%",
     "time": 1059,
-    "timeDay": 1530,
-    "timeWeek": 990,
-    "timeMonth": 1076,
+    "timeDay": 1193,
+    "timeWeek": 970,
+    "timeMonth": 1087,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-04-09": 30,
@@ -214,8 +213,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -224,15 +222,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "92.53%",
+    "uptime": "92.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "82.64%",
+    "uptimeYear": "82.91%",
     "time": 1043,
-    "timeDay": 1502,
-    "timeWeek": 1366,
-    "timeMonth": 1103,
+    "timeDay": 913,
+    "timeWeek": 1399,
+    "timeMonth": 1091,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-04-09": 29,
@@ -331,8 +329,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   }
 ]
