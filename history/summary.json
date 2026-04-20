@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "91.05%",
-    "time": 1827,
-    "timeDay": 5829,
-    "timeWeek": 2873,
-    "timeMonth": 1981,
-    "timeYear": 1925,
+    "uptimeYear": "91.33%",
+    "time": 1826,
+    "timeDay": 1251,
+    "timeWeek": 2209,
+    "timeMonth": 1978,
+    "timeYear": 1924,
     "dailyMinutesDown": {
       "2026-04-16": 19,
       "2026-04-09": 30,
@@ -83,8 +83,7 @@
       "2025-04-25": 370,
       "2025-04-24": 325,
       "2025-04-22": 682,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -97,12 +96,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "81.59%",
+    "uptimeYear": "81.86%",
     "time": 1063,
-    "timeDay": 1813,
-    "timeWeek": 1144,
-    "timeMonth": 1068,
-    "timeYear": 1095,
+    "timeDay": 940,
+    "timeWeek": 1070,
+    "timeMonth": 1073,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 30,
@@ -204,8 +203,7 @@
       "2025-04-25": 370,
       "2025-04-24": 324,
       "2025-04-22": 682,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -214,16 +212,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "92.56%",
+    "uptime": "92.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "84.28%",
+    "uptimeYear": "84.55%",
     "time": 1040,
-    "timeDay": 935,
-    "timeWeek": 1120,
-    "timeMonth": 1117,
-    "timeYear": 1076,
+    "timeDay": 1256,
+    "timeWeek": 1089,
+    "timeMonth": 1125,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 29,
@@ -316,8 +314,7 @@
       "2025-04-25": 370,
       "2025-04-24": 324,
       "2025-04-22": 683,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   }
 ]
