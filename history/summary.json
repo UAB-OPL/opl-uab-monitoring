@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/opl.uab.cat.ico",
     "slug": "web-opl",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "91.33%",
-    "time": 1826,
-    "timeDay": 1251,
-    "timeWeek": 2209,
-    "timeMonth": 1978,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "91.60%",
+    "time": 1827,
+    "timeDay": 1768,
+    "timeWeek": 2114,
+    "timeMonth": 1991,
     "timeYear": 1924,
     "dailyMinutesDown": {
       "2026-04-16": 19,
@@ -82,8 +82,7 @@
       "2025-04-28": 756,
       "2025-04-25": 370,
       "2025-04-24": 325,
-      "2025-04-22": 682,
-      "2025-04-21": 1440
+      "2025-04-22": 682
     }
   },
   {
@@ -92,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "91.86%",
+    "uptime": "91.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "81.86%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "82.14%",
     "time": 1063,
-    "timeDay": 940,
+    "timeDay": 1192,
     "timeWeek": 1070,
-    "timeMonth": 1073,
-    "timeYear": 1094,
+    "timeMonth": 1088,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 30,
@@ -202,8 +201,7 @@
       "2025-04-28": 755,
       "2025-04-25": 370,
       "2025-04-24": 324,
-      "2025-04-22": 682,
-      "2025-04-21": 1440
+      "2025-04-22": 682
     }
   },
   {
@@ -215,13 +213,13 @@
     "uptime": "92.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "84.55%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "84.83%",
     "time": 1040,
-    "timeDay": 1256,
-    "timeWeek": 1089,
-    "timeMonth": 1125,
-    "timeYear": 1077,
+    "timeDay": 788,
+    "timeWeek": 1074,
+    "timeMonth": 1114,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 29,
@@ -313,8 +311,7 @@
       "2025-04-28": 755,
       "2025-04-25": 370,
       "2025-04-24": 324,
-      "2025-04-22": 683,
-      "2025-04-21": 1440
+      "2025-04-22": 683
     }
   }
 ]
