@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "91.60%",
+    "uptimeYear": "91.88%",
     "time": 1827,
-    "timeDay": 1768,
-    "timeWeek": 2114,
-    "timeMonth": 1991,
-    "timeYear": 1924,
+    "timeDay": 1621,
+    "timeWeek": 2116,
+    "timeMonth": 1998,
+    "timeYear": 1923,
     "dailyMinutesDown": {
       "2026-04-16": 19,
       "2026-04-09": 30,
@@ -81,8 +81,7 @@
       "2025-04-29": 393,
       "2025-04-28": 756,
       "2025-04-25": 370,
-      "2025-04-24": 325,
-      "2025-04-22": 682
+      "2025-04-24": 325
     }
   },
   {
@@ -95,12 +94,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "82.14%",
+    "uptimeYear": "82.41%",
     "time": 1063,
-    "timeDay": 1192,
-    "timeWeek": 1070,
-    "timeMonth": 1088,
-    "timeYear": 1095,
+    "timeDay": 628,
+    "timeWeek": 1034,
+    "timeMonth": 1090,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 30,
@@ -200,8 +199,7 @@
       "2025-04-29": 393,
       "2025-04-28": 755,
       "2025-04-25": 370,
-      "2025-04-24": 324,
-      "2025-04-22": 682
+      "2025-04-24": 324
     }
   },
   {
@@ -210,15 +208,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.opl.uab.cat.ico",
     "slug": "mirrors-opl",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "84.83%",
+    "uptimeYear": "85.10%",
     "time": 1040,
-    "timeDay": 788,
-    "timeWeek": 1074,
-    "timeMonth": 1114,
+    "timeDay": 927,
+    "timeWeek": 959,
+    "timeMonth": 1125,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-04-16": 18,
@@ -310,8 +308,7 @@
       "2025-04-29": 613,
       "2025-04-28": 755,
       "2025-04-25": 370,
-      "2025-04-24": 324,
-      "2025-04-22": 683
+      "2025-04-24": 324
     }
   }
 ]
