@@ -8,13 +8,13 @@
     "uptime": "94.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "92.13%",
     "time": 1831,
-    "timeDay": 2802,
-    "timeWeek": 1761,
-    "timeMonth": 1971,
-    "timeYear": 1932,
+    "timeDay": 2002,
+    "timeWeek": 1791,
+    "timeMonth": 2000,
+    "timeYear": 1934,
     "dailyMinutesDown": {
       "2026-04-25": 16,
       "2026-04-16": 19,
@@ -79,8 +79,7 @@
       "2025-05-31": 19,
       "2025-05-06": 19,
       "2025-04-30": 88,
-      "2025-04-29": 393,
-      "2025-04-28": 756
+      "2025-04-29": 393
     }
   },
   {
@@ -89,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/migasfree.opl.uab.cat.ico",
     "slug": "migasfree-server-opl",
     "status": "up",
-    "uptime": "91.90%",
+    "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "82.66%",
     "time": 1070,
-    "timeDay": 1794,
-    "timeWeek": 1250,
-    "timeMonth": 1046,
+    "timeDay": 941,
+    "timeWeek": 1219,
+    "timeMonth": 1053,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2026-04-25": 15,
@@ -196,8 +195,7 @@
       "2025-07-28": 780,
       "2025-05-06": 18,
       "2025-04-30": 88,
-      "2025-04-29": 393,
-      "2025-04-28": 755
+      "2025-04-29": 393
     }
   },
   {
@@ -209,13 +207,13 @@
     "uptime": "92.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "85.35%",
     "time": 1047,
-    "timeDay": 721,
-    "timeWeek": 984,
-    "timeMonth": 1173,
-    "timeYear": 1079,
+    "timeDay": 877,
+    "timeWeek": 995,
+    "timeMonth": 1193,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-04-16": 18,
       "2026-04-09": 29,
@@ -303,8 +301,7 @@
       "2025-05-29": 15,
       "2025-05-06": 18,
       "2025-04-30": 683,
-      "2025-04-29": 613,
-      "2025-04-28": 755
+      "2025-04-29": 613
     }
   }
 ]
